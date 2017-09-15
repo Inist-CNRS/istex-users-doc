@@ -8,7 +8,5 @@ pages:
 theme: readthedocs
 docs_dir: docs
 site_dir: public/documentation
-extra_javascript:
-  - //content-delivery.istex.fr/web-header/main.js
 extra_css:
   - css/docs.css
