@@ -1,4 +1,3 @@
-ISTEX-USERS-DOC
-=============
+# LODEX-USERS-DOC
 
-L'ensemble de la documentation utilisateur de l'API ISTEX
+L'ensemble de la documentation utilisateur LODEX.
